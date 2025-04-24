@@ -3,8 +3,8 @@
 <br><br/>
 
 - A passionate Self-taught Backend-end developer
-- Currently learning Java
-- Currently working on many small projects.
+- Learning Java
+- Working on many small projects.
 - I’m looking for help with anything. I am currently learning!
 <h4> Languages and Tools</h4>
 <span> 
