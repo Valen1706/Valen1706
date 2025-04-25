@@ -2,8 +2,8 @@
 <h2><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px>&nbsp;About me</h2>
 <br>
 
-- A passionate Self-taught Backend-end developer
-- Learning Java
+- A passionate Self-taught Backend-end developer.
+- Learning Java.
 - Working on many small projects.
 - I’m looking for help with anything. I am currently learning!
 <h2> Languages and Tools</h2>
